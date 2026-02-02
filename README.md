@@ -1,1 +1,1 @@
-# claude-code
+# Integrated Github Applications
